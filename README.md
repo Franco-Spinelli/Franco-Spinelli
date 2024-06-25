@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a passionate backend developer, having completed my Associate Degree at the National Technological University in Argentina. I am dedicated to continuously expanding my knowledge and skills in software development, particularly in backend technologies and systems architecture.
+I am a passionate backend developer, having completed my Associate Degree in Computer Science at the National Technological University in Argentina. I am dedicated to continuously expanding my knowledge and skills in software development, particularly in backend technologies and systems architecture.
 
 ### These are some of the languages and frameworks I work with:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
